@@ -1,5 +1,18 @@
 ﻿@page
 @model CRUD_Productos.Pages.Productos.DetalleModel
 @{
+    ViewData["Title"] = "Detalle del Producto";
 }
 <h1>Detalle del Producto</h1>
+
+<div class="card mb-3">
+    <div class="card-body">
+        <h5 class="card-title">Nombre: @Model.Producto.Nombre</h5>
+        <p class="card-text">
+            <strong>Precio</strong>: @Model.Producto.Precio<br />
+            <strong>Stock</strong>: @Model.Producto.Stock<br />
+            <strong>Fecha de Creación</strong>: @Model.Producto.FechaCreacion
+        </p>
+        <a asp-page="index" class="btn btn-secondary"><i class="bi bi-arrow-90deg-left"></i> Volver atrás</a>
+    </div>
+</div>

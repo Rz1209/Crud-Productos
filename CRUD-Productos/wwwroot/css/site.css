@@ -23,7 +23,19 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+  margin: 0px;
+}
+main {
+    flex: 1;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #8f8f8fd9;
+    text-align: center;
+    padding: 10px;
 }
 
 .form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {

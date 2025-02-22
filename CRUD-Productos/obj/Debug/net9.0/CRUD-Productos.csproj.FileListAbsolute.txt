@@ -139,7 +139,6 @@ D:\UDEMY\Master-razor-pages\Mis practicas\CRUD-Productos\CRUD-Productos\obj\Debu
 D:\UDEMY\Master-razor-pages\Mis practicas\CRUD-Productos\CRUD-Productos\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 D:\UDEMY\Master-razor-pages\Mis practicas\CRUD-Productos\CRUD-Productos\obj\Debug\net9.0\scopedcss\bundle\CRUD-Productos.styles.css
 D:\UDEMY\Master-razor-pages\Mis practicas\CRUD-Productos\CRUD-Productos\obj\Debug\net9.0\scopedcss\projectbundle\CRUD-Productos.bundle.scp.css
-D:\UDEMY\Master-razor-pages\Mis practicas\CRUD-Productos\CRUD-Productos\obj\Debug\net9.0\compressed\u6te46qaok-b9sayid5wm.gz
 D:\UDEMY\Master-razor-pages\Mis practicas\CRUD-Productos\CRUD-Productos\obj\Debug\net9.0\compressed\h0aosnbnqf-61n19gt1b8.gz
 D:\UDEMY\Master-razor-pages\Mis practicas\CRUD-Productos\CRUD-Productos\obj\Debug\net9.0\compressed\pvx2naokzv-xtxxf3hu2r.gz
 D:\UDEMY\Master-razor-pages\Mis practicas\CRUD-Productos\CRUD-Productos\obj\Debug\net9.0\compressed\n2ts61ex79-bqjiyaj88i.gz
@@ -219,3 +218,5 @@ D:\UDEMY\Master-razor-pages\Mis practicas\CRUD-Productos\CRUD-Productos\obj\Debu
 D:\UDEMY\Master-razor-pages\Mis practicas\CRUD-Productos\CRUD-Productos\obj\Debug\net9.0\CRUD-Productos.pdb
 D:\UDEMY\Master-razor-pages\Mis practicas\CRUD-Productos\CRUD-Productos\obj\Debug\net9.0\CRUD-Productos.genruntimeconfig.cache
 D:\UDEMY\Master-razor-pages\Mis practicas\CRUD-Productos\CRUD-Productos\obj\Debug\net9.0\ref\CRUD-Productos.dll
+D:\UDEMY\Master-razor-pages\Mis practicas\CRUD-Productos\CRUD-Productos\obj\Debug\net9.0\CRUD-Productos.sourcelink.json
+D:\UDEMY\Master-razor-pages\Mis practicas\CRUD-Productos\CRUD-Productos\obj\Debug\net9.0\compressed\u6te46qaok-jold9b8sws.gz

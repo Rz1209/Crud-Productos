@@ -5,7 +5,7 @@
 }
 
 <h1>Lista de Productos</h1>
-<a class="btn btn-primary mb-3" asp-page="/Productos/Crear">Agregar Nuevo</a>
+<a class="btn btn-primary mb-3" asp-page="/Productos/Crear"><i class="bi bi-plus-circle"></i> Agregar Nuevo</a>
 
 <table class="table table-striped">
     <thead>
@@ -28,9 +28,9 @@
                 <td>@producto.Stock</td>
                 <td>@producto.FechaCreacion</td>
                 <td>
-                    <a class="btn btn-outline-secondary btn-sm" asp-page="/Productos/Editar" asp-route-id="@producto.Id">Editar</a>
-                    <a class="btn btn-outline-danger btn-sm" asp-page="/Productos/Borrar" asp-route-id="@producto.Id">Borrar</a>
-                    <a class="btn btn-outline-info btn-sm" asp-page="/Productos/Detalle" asp-route-id="@producto.Id">Detalle</a>
+                    <a class="btn btn-outline-secondary btn-sm" asp-page="/Productos/Editar" asp-route-id="@producto.Id"><i class="bi bi-pencil"></i> Editar</a>
+                    <a class="btn btn-outline-danger btn-sm" asp-page="/Productos/Borrar" asp-route-id="@producto.Id"><i class="bi bi-trash3"></i> Borrar</a>
+                    <a class="btn btn-outline-info btn-sm" asp-page="/Productos/Detalle" asp-route-id="@producto.Id"><i class="bi bi-info-circle"></i> Ver Detalles</a>
                 </td>
             </tr>
                  

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Etue6tcpmo3hVMqeP9hf8cHMYbdNpDHZu8uZbZXPWCo=",
+  "Hash": "tmoNL4Lyg/AERgxdYoaj+hQshr0ZxEkTwb4HquUL/YI=",
   "Source": "CRUD-Productos",
   "BasePath": "_content/CRUD-Productos",
   "Mode": "Default",
@@ -1130,12 +1130,12 @@
       "OriginalItemSpec": "D:\\UDEMY\\Master-razor-pages\\Mis practicas\\CRUD-Productos\\CRUD-Productos\\wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\UDEMY\\Master-razor-pages\\Mis practicas\\CRUD-Productos\\CRUD-Productos\\obj\\Debug\\net9.0\\compressed\\u6te46qaok-b9sayid5wm.gz",
+      "Identity": "D:\\UDEMY\\Master-razor-pages\\Mis practicas\\CRUD-Productos\\CRUD-Productos\\obj\\Debug\\net9.0\\compressed\\u6te46qaok-jold9b8sws.gz",
       "SourceId": "CRUD-Productos",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\UDEMY\\Master-razor-pages\\Mis practicas\\CRUD-Productos\\CRUD-Productos\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/CRUD-Productos",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=jold9b8sws}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1144,8 +1144,8 @@
       "RelatedAsset": "D:\\UDEMY\\Master-razor-pages\\Mis practicas\\CRUD-Productos\\CRUD-Productos\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wf4wcyqcqt",
-      "Integrity": "fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=",
+      "Fingerprint": "pad26g69of",
+      "Integrity": "0VXEi0dsrCQ1mjHpRB43PQNAHvT5A9wW0wjjSgwhlpA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\UDEMY\\Master-razor-pages\\Mis practicas\\CRUD-Productos\\CRUD-Productos\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "jold9b8sws",
+      "Integrity": "A+R81Dci+aoDXqtNCEpc6VUfZQDHM94mQchX653L2WM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -3324,13 +3324,13 @@
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "D:\\UDEMY\\Master-razor-pages\\Mis practicas\\CRUD-Productos\\CRUD-Productos\\obj\\Debug\\net9.0\\compressed\\u6te46qaok-b9sayid5wm.gz",
+      "Route": "css/site.css",
+      "AssetFile": "D:\\UDEMY\\Master-razor-pages\\Mis practicas\\CRUD-Productos\\CRUD-Productos\\obj\\Debug\\net9.0\\compressed\\u6te46qaok-jold9b8sws.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003125000000"
+          "Quality": "0.002469135802"
         }
       ],
       "ResponseHeaders": [
@@ -3340,19 +3340,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "404"
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"0VXEi0dsrCQ1mjHpRB43PQNAHvT5A9wW0wjjSgwhlpA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 16:25:42 GMT"
+          "Value": "Sat, 22 Feb 2025 17:25:57 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -3368,26 +3368,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"A+R81Dci+aoDXqtNCEpc6VUfZQDHM94mQchX653L2WM=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "b9sayid5wm"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-A+R81Dci+aoDXqtNCEpc6VUfZQDHM94mQchX653L2WM="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/site.css",
       "AssetFile": "D:\\UDEMY\\Master-razor-pages\\Mis practicas\\CRUD-Productos\\CRUD-Productos\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3397,7 +3389,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "911"
         },
         {
           "Name": "Content-Type",
@@ -3405,11 +3397,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"A+R81Dci+aoDXqtNCEpc6VUfZQDHM94mQchX653L2WM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 16:25:42 GMT"
+          "Value": "Sat, 22 Feb 2025 17:25:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A+R81Dci+aoDXqtNCEpc6VUfZQDHM94mQchX653L2WM="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "D:\\UDEMY\\Master-razor-pages\\Mis practicas\\CRUD-Productos\\CRUD-Productos\\obj\\Debug\\net9.0\\compressed\\u6te46qaok-jold9b8sws.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "404"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0VXEi0dsrCQ1mjHpRB43PQNAHvT5A9wW0wjjSgwhlpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 17:25:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0VXEi0dsrCQ1mjHpRB43PQNAHvT5A9wW0wjjSgwhlpA="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.jold9b8sws.css",
+      "AssetFile": "D:\\UDEMY\\Master-razor-pages\\Mis practicas\\CRUD-Productos\\CRUD-Productos\\obj\\Debug\\net9.0\\compressed\\u6te46qaok-jold9b8sws.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002469135802"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "404"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0VXEi0dsrCQ1mjHpRB43PQNAHvT5A9wW0wjjSgwhlpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 17:25:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"A+R81Dci+aoDXqtNCEpc6VUfZQDHM94mQchX653L2WM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jold9b8sws"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A+R81Dci+aoDXqtNCEpc6VUfZQDHM94mQchX653L2WM="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.jold9b8sws.css",
+      "AssetFile": "D:\\UDEMY\\Master-razor-pages\\Mis practicas\\CRUD-Productos\\CRUD-Productos\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "911"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A+R81Dci+aoDXqtNCEpc6VUfZQDHM94mQchX653L2WM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 17:25:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3419,7 +3556,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "jold9b8sws"
         },
         {
           "Name": "label",
@@ -3427,13 +3564,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-A+R81Dci+aoDXqtNCEpc6VUfZQDHM94mQchX653L2WM="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "D:\\UDEMY\\Master-razor-pages\\Mis practicas\\CRUD-Productos\\CRUD-Productos\\obj\\Debug\\net9.0\\compressed\\u6te46qaok-b9sayid5wm.gz",
+      "Route": "css/site.jold9b8sws.css.gz",
+      "AssetFile": "D:\\UDEMY\\Master-razor-pages\\Mis practicas\\CRUD-Productos\\CRUD-Productos\\obj\\Debug\\net9.0\\compressed\\u6te46qaok-jold9b8sws.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3442,7 +3579,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "404"
         },
         {
           "Name": "Content-Type",
@@ -3450,11 +3587,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"0VXEi0dsrCQ1mjHpRB43PQNAHvT5A9wW0wjjSgwhlpA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 16:25:42 GMT"
+          "Value": "Sat, 22 Feb 2025 17:25:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3472,7 +3609,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "jold9b8sws"
         },
         {
           "Name": "label",
@@ -3480,144 +3617,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "D:\\UDEMY\\Master-razor-pages\\Mis practicas\\CRUD-Productos\\CRUD-Productos\\obj\\Debug\\net9.0\\compressed\\u6te46qaok-b9sayid5wm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003125000000"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "319"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 16:25:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "D:\\UDEMY\\Master-razor-pages\\Mis practicas\\CRUD-Productos\\CRUD-Productos\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "667"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 16:25:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "D:\\UDEMY\\Master-razor-pages\\Mis practicas\\CRUD-Productos\\CRUD-Productos\\obj\\Debug\\net9.0\\compressed\\u6te46qaok-b9sayid5wm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "319"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 16:25:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
+          "Value": "sha256-0VXEi0dsrCQ1mjHpRB43PQNAHvT5A9wW0wjjSgwhlpA="
         }
       ]
     },
