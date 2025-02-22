@@ -1,0 +1,83 @@
+﻿
+"Metodología Code First"
+
+Extenciones necesarias:
+
+	Microsoft.EntityFrameworkCore.SqlServer
+	Microsoft.EntityFrameworkCore.Tools
+
+
+Crear Cadena de conexion a LocalDb
+
+"ConnectionStrings": {
+    "DefaultConnection": "Server=(localdb)\\MSSQLLocalDB; Database=CrudProductosRazorDB; Trusted_Connection=True;MultipleActiveResultSets=True"
+  },
+
+  Configurar Cadena de conexion
+	En la clase 'Program.cs' agregar:
+		
+		builder.Servises.AddDbContext<ApplicationDbContext>(options =>
+			options.UseSqlServer(builder.Configuration.GetConnectionString(DefaultConnection))
+		);
+
+
+    Carpetas agregadas
+Datos //Aqui va el archivo de contexto donde se mapean los datos de las tablas
+Modelos // aqui se crean los modelos de las tablas
+
+
+
+  Configurar Archivo de contexto(donde se van a mapear cada uno de los modelos a tablas o entidades de DB)
+
+	En la raiz del proyecto agregar una carpeta 'Datos'
+		En 'Datos' crear una clase llamada ApplicationDbContext, esta debe heredar de DbContext pero antes se debe importar
+		la libreria using Microsoft.EntityFrameworkCore; Para que no de error.
+
+
+
+	Luego se crea un constructor de la clase ApplicationDbContext ej: 
+
+		public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
+        {
+        }
+
+		Explicación detallada del constructor:
+
+			public ApplicationDbContext(...):
+				Declara un constructor público de la clase ApplicationDbContext.
+				Permite crear instancias de esta clase cuando se configura el contexto en la aplicación.
+
+			DbContextOptions<ApplicationDbContext> options:
+				Recibe un objeto de opciones que incluye configuraciones como la cadena de conexión y proveedor de base de datos (SQL Server, SQLite, etc.).
+				Esto lo suele proporcionar el sistema de inyección de dependencias de ASP.NET Core.
+
+			: base(options):
+				Llama al constructor de la clase base (DbContext), pasando las options.
+				Así, DbContext queda correctamente configurado con la información de la base de datos.
+
+			{ } (cuerpo vacío):
+				No realiza operaciones adicionales; toda la configuración se pasa directamente al constructor base.
+	
+
+
+	Agregamos el modelo. ej:
+			ej:
+			public DbSet<Producto> Producto {get; set;}
+
+
+	Crear las Migraciones:
+		Para ello nos dirigimos a:
+
+		-Herramientas
+		 |_Administrador de paquetes NuGet
+		   |_Consola del Administrador de paquetes
+
+		Ejecutamos los sig comandos
+
+		clear  -> para limpiar la consola
+
+		add-migration NameOfMigration  -> este comando crea las migraciones, es importante agregar un nombre descriptivo.
+
+		update-database  -> este comando crea la tabla en la DB una vez que se crearon las migraciones.
+
+		
